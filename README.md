@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Python,SQL,Excel VBA**
 
 - 📫 How to reach me **aajuc57@gmail.com**
 
